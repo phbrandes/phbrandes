@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @phbrandes
-- 👀 I’m interested in cdoing  
+- 👀 I’m interested in coding  
 - 🌱 I’m currently learning digital marketing
 - 💞️ I’m looking to collaborate on coding projects
 - 📫 How to reach me send me a dm on my email pedrohbluiz2013@gmail.com
