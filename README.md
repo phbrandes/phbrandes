@@ -30,7 +30,7 @@
 ### 🚀 Projetos em Destaque
 
 - 🤖 **Automação de Atendimento & Pedidos:** Fluxos integrados com **n8n, JavaScript, Webhooks, Evolution API** e **PostgreSQL** rodando em containers **Docker**.
-- 💬 **[Chatbot de Atendimento FAQ](https://github.com/phbrandes/chat-bot-de-atendimento-faq):** Interface web interativa (*glassmorphism*) construída com **JavaScript, HTML5 e CSS3**.
+- 💬 **[Chatbot de Atendimento FAQ](https://phbrandes.github.io/chat-bot-de-atendimento-faq/):** Interface web interativa (*glassmorphism*) construída com **JavaScript, HTML5 e CSS3**.
 - 📱 **Controle IR Nativo (Android):** Aplicativo mobile em **Kotlin** utilizando hardware IR Blaster para climatizadores.
 
 ---
